@@ -9,8 +9,8 @@ const NumMCQ = () => {
     {
       id: 1,
       type: "Multiple Correct",
-      question: "ABCD",
-      topic: "",
+      question: "Is inertia also known as the principle of relativity?  show ellipse when text overflow.",
+      topic: "Relativity",
       answer: [
         { answerText: "It is an ionizing radiation", isCorrect: false },
         { answerText: "It is unable to penetrate human skin", isCorrect: true },
@@ -39,7 +39,7 @@ const NumMCQ = () => {
     {
       id: 4,
       type: "Multiple Correct",
-      question: "ABCD",
+      question: "hello",
       topic: "",
       answer: [
         { answerText: "It is an ionizing radiation", isCorrect: false },

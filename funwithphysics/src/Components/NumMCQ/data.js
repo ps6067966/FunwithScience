@@ -2,8 +2,8 @@ const data = [
     {
         id: 1,
         type:"Multiple Correct",
-        question:"ABCD",
-        topic:"",
+        question:"Is inertia also known as the principle of relativity?",
+        topic:"Hello",
         answer: [
             { answerText: "It is an ionizing radiation", isCorrect: false },
             { answerText: "It is unable to penetrate human skin", isCorrect: true },
@@ -22,7 +22,7 @@ const data = [
     {
         id: 3,
         type:"Multiple Correct",
-        question:"ABCD",
+        question:"Is inertia also known as the principle of relativity?",
         topic:"",
         answer: [
             { answerText: "It is an ionizing radiation", isCorrect: false },
@@ -32,7 +32,7 @@ const data = [
     {
         id: 4,
         type:"Multiple Correct",
-        question:"ABCD",
+        question:"Is inertia also known as the principle of relativity?",
         topic:"",
         answer: [
             { answerText: "It is an ionizing radiation", isCorrect: false },
@@ -49,7 +49,7 @@ const data = [
     {
         id: 6,
         type:"Numerical",
-        question:"ABCD",
+        question:"Is inertia also known as the principle of relativity?",
         topic:"",
         answer: [
             { answerText: "It is an ionizing radiation", isCorrect: false },
@@ -59,7 +59,7 @@ const data = [
     {
         id: 7,
         type:"Numerical",
-        question:"ABCD",
+        question:"Is inertia also known as the principle of relativity?",
         topic:"",
         answer: [
             { answerText: "It is an ionizing radiation", isCorrect: false },
@@ -69,7 +69,7 @@ const data = [
     {
         id: 8,
         type:"Numerical",
-        question:"ABCD",
+        question:"Is inertia also known as the principle of relativity?",
         topic:"",
         answer: [
             { answerText: "It is an ionizing radiation", isCorrect: false },
@@ -79,7 +79,7 @@ const data = [
     {
         id: 9,
         type:"Numerical",
-        question:"ABCD",
+        question:"Is inertia also known as the principle of relativity?",
         topic:"",
         answer: [
             { answerText: "It is an ionizing radiation", isCorrect: false },
